@@ -341,10 +341,12 @@ checksum.failed=La vérification du checksum a échoué.
 
 [languages]
 Czech=Tchèque
+German=Allemand
 English=Anglais
 Spanish=Espagnol
 French=Français
 Italian=Italien
+Japanese=Japonais
 Polish=Polonais
 Russian=Russe
 Simplified Chinese=Chinois Simplifié

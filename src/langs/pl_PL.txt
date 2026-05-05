@@ -341,10 +341,12 @@ checksum.failed=Weryfikacja sumy kontrolnej nie powiodła się.
 
 [languages]
 Czech=Czeski
+German=Niemiecki
 English=Angielski
 Spanish=Hiszpański
 French=Francuski
 Italian=Włoski
+Japanese=Japoński
 Polish=Polski
 Russian=Rosyjski
 Simplified Chinese=Chiński uproszczony
